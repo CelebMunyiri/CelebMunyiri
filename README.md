@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Munyiri Mwangi</h1>
-<h3 align="center">A passionate frontend developer from Kenya</h3>
+<h3 align="center">A passionate Fullstack developer and Quality Engineer from Kenya</h3>
 <img align="right" src="https://i.giphy.com/media/m6pvmOSXuTEPaKFWBz/200w.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=celebmunyiri&label=Profile%20views&color=0e75b6&style=flat" alt="celebmunyiri" /> </p>
@@ -10,11 +10,11 @@
 
 - 🌱 I’m currently learning **UI testing, Nextjs, Kubernetes**
 
-- 👯 I’m looking to collaborate on **my future projects as well as yours**
+- 👯 I’m looking to collaborate on with you all on my future projects as well as your projects, let me write tests for your code
 
-- 💬 Ask me about **javascript, react, css**
+- 💬 Ask me about **javascript, react, css,angular,python,unit testing(jest),end to end testing(cypress)
 
-- 📫 How to reach me **davidmumyiri2019@gmail.com**
+- 📫 How to reach me **davidmumyiri2019@gmail.com or davidmunyiri2019@outlook.com**
 
 - ⚡ Fun fact **I do banters but using sarcasm in coding**
 

@@ -6,15 +6,15 @@
 
 <p align="left"> <a href="https://twitter.com/dev david munyiri" target="blank"><img src="https://img.shields.io/twitter/follow/dev david munyiri?logo=twitter&style=for-the-badge" alt="dev david munyiri" /></a> </p>
 
-- 🔭 I’m currently working on Virtual meeting Navigator
+- 🔭 I’m currently working on building AI Agents to perform tasks for me
 
-- 🌱 I’m currently learning Game development in C#
+- 🌱 I’m currently learning Security Engineering
 
 - 👯 I’m looking to collaborate on with you all on my future projects as well as your projects, let me write tests for your code
 
-- 💬 Ask me about **javascript, react, css,angular,python,C#,unit testing(jest),end to end testing(cypress)
+- 💬 Ask me about **javascript(react,angular,vue,nestjs,nodejs),python(django ,FastAPI),java(SpringBoot),C#(.NET),unit testing(jest,supertest),k9,end to end testing(cypress)
 
-- 📫 How to reach me **davidmumyiri2019@gmail.com or davidmunyiri2019@outlook.com**
+- 📫 How to reach me **davidmunyiri2019@outlook.com**
 
 - ⚡ Fun fact **I do banters but using sarcasm in coding**
 
